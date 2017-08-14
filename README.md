@@ -3,7 +3,7 @@ E-Crown integration/staging tree
 
 http://www.e-crown.eu
 
-Copyright (c) 2009-2017 ECrown Developers
+Copyright (c) 2009-2017 E-Crown Developers e-crown.eu
 
 What is ECrown?
 ----------------
