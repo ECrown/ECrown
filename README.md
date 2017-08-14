@@ -7,7 +7,7 @@ CZ http://e-crown.cz
 
 Copyright (c) 2009-2017 E-Crown Developers
 
-What is ECrown?
+What is E-Crown?
 ----------------
 
 ECrown is an experimental new digital currency that enables instant payments to
@@ -18,6 +18,8 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the ECrown client software, see http://e-crown.eu.
+
+The Coin name is ECrown or Project name is E-Crown.
 
 License
 -------
@@ -31,7 +33,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the ECrown
+If it is a simple/trivial/non-controversial change, then one of the E-Crown
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -44,7 +46,7 @@ match the project's coding conventions (see `doc/coding.md`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/ECrown/E-Crown) are created
+completely stable. [Tags](https://github.com/ECrown/ECrown) are created
 regularly to indicate new official, stable release versions of ECrown.
 
 Testing
