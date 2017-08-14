@@ -1,7 +1,7 @@
 E-Crown integration/staging tree
 ================================
 
-http://www.e-crown.eu
+http://e-crown.eu
 
 Copyright (c) 2009-2017 E-Crown Developers e-crown.eu
 
@@ -15,7 +15,7 @@ out collectively by the network. ECrown is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the ECrown client software, see http://www.e-crown.eu.
+the ECrown client software, see http://e-crown.eu.
 
 License
 -------
