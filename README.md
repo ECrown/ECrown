@@ -1,9 +1,11 @@
 E-Crown integration/staging tree
 ================================
 
-http://e-crown.eu
+EN http://e-crown.eu
+SK http://e-crown.sk
+CZ http://e-crown.cz
 
-Copyright (c) 2009-2017 E-Crown Developers e-crown.eu
+Copyright (c) 2009-2017 E-Crown Developers
 
 What is ECrown?
 ----------------
