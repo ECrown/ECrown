@@ -419,7 +419,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         // Write a bitcoin.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
-        optionFile << "Name=ECrown\n";
+        optionFile << "Name=E-Crown\n";
         optionFile << "Exec=" << pszExePath << " -min\n";
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
@@ -514,7 +514,7 @@ void restoreWindowGeometry(const QString& strSetting, const QSize& defaultSize, 
 HelpMessageBox::HelpMessageBox(QWidget *parent) :
     QMessageBox(parent)
 {
-    header = tr("ECrown-Qt") + " " + tr("version") + " " +
+    header = tr("E-Crown-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
         "  ecrown-qt [" + tr("command-line options") + "]                     " + "\n";

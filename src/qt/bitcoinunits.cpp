@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("ECrowns");
-    case mBTC: return QString("Milli-ECrowns (1 / 1,000)");
-    case uBTC: return QString("Micro-ECrowns (1 / 1,000,000)");
+    case BTC: return QString("E-Crowns");
+    case mBTC: return QString("Milli-E-Crowns (1 / 1,000)");
+    case uBTC: return QString("Micro-E-Crowns (1 / 1,000,000)");
     default: return QString("???");
     }
 }

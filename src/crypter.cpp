@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2012 The ECrown Developers
+// Copyright (c) 2017 The E-Crown developers - Petr Chmelik
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

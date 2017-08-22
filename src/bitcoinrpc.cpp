@@ -1,5 +1,5 @@
 // Copyright (c) 2010 Satoshi Nakamoto
-// Copyright (c) 2009-2012 The ECrown developers
+// Copyright (c) 2017 The E-Crown developers - Petr Chmelik
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -176,10 +176,10 @@ Value stop(const Array& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "Stop ECrown server.");
+            "Stop E-Crown server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "ECrown server stopping";
+    return "E-Crown server stopping";
 }
 
 
@@ -480,7 +480,7 @@ bool HTTPAuthorized(map<string, string>& mapHeaders)
 }
 
 //
-// JSON-RPC protocol.  ECrown speaks version 1.0 for maximum compatibility,
+// JSON-RPC protocol.  E-Crown speaks version 1.0 for maximum compatibility,
 // but uses JSON-RPC 1.1/2.0 standards for parts of the 1.0 standard that were
 // unspecified (HTTP errors and contents of 'error').
 //

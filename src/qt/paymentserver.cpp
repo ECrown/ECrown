@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2012 The ECrown developers
+// Copyright (c) 2017 The E-Crown developers - Petr Chmelik
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -33,7 +33,7 @@ const QString BITCOIN_IPC_PREFIX("ecrown:");
 //
 static QString ipcServerName()
 {
-    QString name("ECrownQt");
+    QString name("E-CrownQt");
 
     // Append a simple hash of the datadir
     // Note that GetDataDir(true) returns a different path
