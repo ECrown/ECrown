@@ -1,23 +1,23 @@
 E-Crown integration/staging tree
 ================================
 
-EN http://e-crown.eu
-SK http://e-crown.sk
-CZ http://e-crown.cz
+EN https://www.e-crown.eu
+SK https://www.e-crown.sk
+CZ https://www.e-crown.cz
 
 Copyright (c) 2017 The E-Crown developers
 
 What is E-Crown?
 ----------------
 
-ECrown is an experimental new digital currency that enables instant payments to
+E-Crown is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. E-Crown uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. E-Crown is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the E-Crown client software, see http://e-crown.eu.
+the E-Crown client software, see https://www.e-crown.eu/wallet.html.
 
 
 License
