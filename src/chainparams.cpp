@@ -99,8 +99,8 @@ public:
         assert(hashGenesisBlock == uint256("0x00000000382db9eac44a393e6b7a1b2e12f58952bd4d44e8895eb02a832e53ab"));
         assert(genesis.hashMerkleRoot == uint256("0xd59cf0f49e2cde508ae8687210405c86efb2a78bedad538ffd559fea5c1e0b28"));
 
-        vSeeds.push_back(CDNSSeedData("seed.e-crown.eu", "seed2.e-crown.eu"));
-        vSeeds.push_back(CDNSSeedData("seed3.e-crown.eu", "e-crown.eu"));
+        vSeeds.push_back(CDNSSeedData("node.e-crown.sk", "node1.e-crown.sk"));
+        vSeeds.push_back(CDNSSeedData("eu", "e-crown.eu"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(33);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
